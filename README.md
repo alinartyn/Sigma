@@ -1,2 +1,0 @@
-# Sigma
-My personal repository 
